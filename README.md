@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm thulasisundar</h1>
+ <h1 align="center">Hi 👋, I'm thulasisundararaj</h1>
 <h3 align="center">A passionate java developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thulasisundar&label=Profile%20views&color=0e75b6&style=flat" alt="thulasisundar" /> </p>
