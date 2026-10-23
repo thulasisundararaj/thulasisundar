@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thulasisundar&label=Profile%20views&color=0e75b6&style=flat" alt="thulasisundar" /> </p>
 
-- 🌱 I’m currently learning **java,html,css,**
+- 🌱 I’m currently learning **DSA,System design**
 
-- 💬 Ask me about **react, angular**
+- 💬 Ask me about **java,springboot**
 
 - 📫 How to reach me **thulasisundararaj3@gmail.com**
 
